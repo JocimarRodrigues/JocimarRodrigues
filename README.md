@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/JocimarRodrigues">
-  <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=JocimarRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JocimarRodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180px" img width="48%" src="https://github-readme-stats.vercel.app/api?username=JocimarRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JocimarRodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -23,7 +23,7 @@
   <div> 
   <a href="www.linkedin.com/in/jocimar-rodrigues-chagas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JocimarRodrigues/JocimarRodrigues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
