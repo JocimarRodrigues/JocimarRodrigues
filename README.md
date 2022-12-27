@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jocimar Rodrigues Chagas
 
-- 🔭 Atualmente busco uma vaga de estágio.
-- 🌱 Estou estudando  REACT.
+- 🔭 Atualmente busco uma vaga de estágio/Junior.
+- 🌱 Atualmente estou estudando  a formação JavaScript para back-end da ALURA.
 
 <div align="center">
   <a href="https://github.com/JocimarRodrigues">
