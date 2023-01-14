@@ -8,7 +8,7 @@
   <a href="https://github.com/JocimarRodrigues">
   <img height="170px" img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jocimarrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170px" img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JocimarRodrigues&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JocimarRodrigues&theme=github-green-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JocimarRodrigues&theme=dracula" />
 </div>
   
                                                             
