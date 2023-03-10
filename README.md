@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente busco uma vaga de estágio/Junior.
-- 🌱 Atualmente estou estudando  a formação JavaScript para back-end da ALURA.
+- 🌱 Atualmente estou estudando  a formação React com JavaScript ALURA.
 
 <div align="center">
   <a href="https://github.com/JocimarRodrigues">
