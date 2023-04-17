@@ -1,8 +1,14 @@
-## Olá! Eu sou Jocimar Rodrigues Chagas
+# Olá! Eu sou Jocimar Rodrigues Chagas
 
 
 - 🔭 Atualmente busco uma vaga de estágio/Junior.
-- 🌱 Atualmente estou estudando  a formação React com JavaScript da ALURA.
+- 🌱 Estudante de Graduação em Sistemas de Informação na Faculdade Descomplica(EAD).
+- 🍷 Faço cursos complemenates na Alura para aprender stacks novas e praticar.
+
+| 🪧  Portfólio |     |
+| -------------- | --- |
+| 🚀 URL         | **https://portfolio-jocimar.vercel.app** |
+
 
 <div align="center">
   <a href="https://github.com/JocimarRodrigues">
@@ -25,6 +31,8 @@
   <img align="center" alt="John-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img align="center" alt="John-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="John-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+      <img align="center" alt="John-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    
     
    
     
