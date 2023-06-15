@@ -25,20 +25,19 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="John-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="John-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg">
-
+    <img align="center" alt="Icon-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Icon-TS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Icon-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Icon-CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Icon-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Icon-Sass" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="Icon-React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Icon-VsCode" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Icon-Git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img align="center" alt="Icon-NodeJs" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="Icon-Express" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+    <img align="center" alt="Icon-MYSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Icon-Sequelize" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg">
 </div>
   
 ##
