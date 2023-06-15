@@ -10,37 +10,34 @@
 | 🚀 URL         | **https://portfolio-jocimar.vercel.app** |
 
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/JocimarRodrigues">
-  <img height="170px" img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jocimarrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170px" img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JocimarRodrigues&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JocimarRodrigues&theme=dracula" />
+
+  <img height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jocimarrodrigues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JocimarRodrigues&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=JocimarRodrigues&theme=chartreuse-dark" />
 </div>
   
-                                                            
+
+  
 
 
 ##
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="John-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="John-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="John-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="John-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="John-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
-  <img align="center" alt="John-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-  <img align="center" alt="John-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="John-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
-  <img align="center" alt="John-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-    
-
-   
-    
-  
-    
-    
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="John-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="John-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="John-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="John-CSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg">
 
 </div>
   
