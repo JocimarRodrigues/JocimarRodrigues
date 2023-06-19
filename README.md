@@ -12,8 +12,6 @@
 
 <div align="center" display="flex">
   <a href="https://github.com/JocimarRodrigues">
-
-  <img height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jocimarrodrigues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JocimarRodrigues&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=JocimarRodrigues&theme=chartreuse-dark" />
 </div>
