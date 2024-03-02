@@ -1,10 +1,5 @@
 # Olá! Eu sou Jocimar Rodrigues Chagas
 
-
-- 🔭 Atualmente busco uma vaga de estágio/Junior.
-- 🌱 Estudante de Graduação em Sistemas de Informação na Faculdade Descomplica(EAD).
-- 🍷 Faço cursos complemenates na Alura para aprender stacks novas e praticar.
-
 | 🪧  Portfólio |     |
 | -------------- | --- |
 | 🚀 URL         | **https://portfolio-jocimar.vercel.app** |
@@ -27,7 +22,6 @@
     <img align="center" alt="Icon-TS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="Icon-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Icon-CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Icon-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Icon-Sass" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Icon-React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Icon-VsCode" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
